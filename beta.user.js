@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        AposBotBeta
 // @namespace   AposBotBeta
-// @include     http://agar.io/*
+// @include     agaryator.com/*
 // @version     3.46
 // @grant       none
 // @author      http://www.twitch.tv/apostolique
